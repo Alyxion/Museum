@@ -18,7 +18,9 @@ The target of this project is not to make a real fully functional CNC machine...
 
 SineGlobe was an experimental Google Earth clone with which you could render WMTS tiles of all providers such as Google, OSM and of course LOGIBALL, using the common Google Mercator projection to display a globe, search for cities or calculate a route.
 
-After the successful private experimental phase it was transformed and evolved to the localion M solution with which you can now create grade map navigation and routing solutions for iOS and Android devices. For more details google "LOGIBALL Localion M"
+After the successful private experimental phase it was transformed and evolved to the localion M solution with which you can now create great map navigation and routing solutions for iOS and Android devices. 
+
+For more details google "LOGIBALL Localion M"
 
 <img src="SineGlobe/SineGlobe3.png">
 <img src="SineGlobe/SineGlobe1.png">
